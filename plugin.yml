@@ -1,0 +1,6 @@
+main: com.sycatle.fastpot.FastPot
+name: FastPot
+version: 1.0
+authors: [Sycatle]
+commands:
+ fastpot:
